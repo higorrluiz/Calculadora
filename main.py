@@ -237,7 +237,7 @@ class Tela3(Screen):
 class Calculadora(App):
     def build(self):
         return GerenciadorTelas()
-print("bla")
+print("blu")
 
 Calculadora().run()
         
